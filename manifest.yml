@@ -4,7 +4,7 @@ declared-services:
     plan: free
 applications:
 - services:
-  - dialog-service-beta
+  - Alicia
   name: Alicia
   command: node app.js
   path: .
